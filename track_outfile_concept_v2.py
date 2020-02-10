@@ -13,15 +13,15 @@ import re
 ##PROCESS (ANALYSIS TYPE)
 processName = 'NL41'
 
-username = 'ARCADIS\\kraczlam5898'
+username = 'user_name' ##username 
 
 ## PATH TO THE DIR & FILE CONTAINING A BATCH FILE.
 ## NOTE: THE FORMAT OF THE 'commands.bat' FILE IS SPECIFIC.
-PATH_COMMANDS = r'D:\user\kraczlam5898\Utils'
+PATH_COMMANDS = r'D:\user\******\Utils'
 
 
 ## PATH TO THE DIR CONTAINING .dat .dcf FILES.
-PATH_MODEL = r'E:\user\kraczlam5898\Shear beam'
+PATH_MODEL = r'E:\user\******\Shear beam'
 
 ## SEARCHED PHRASES IN THE .OUT FILE
 rx_dict = {
